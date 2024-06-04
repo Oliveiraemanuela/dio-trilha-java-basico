@@ -10,5 +10,8 @@ public class OperadoresTernarios {
 
         System.out.println(resultado);
 
+        
+
+        
     }
 }
