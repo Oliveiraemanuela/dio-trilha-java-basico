@@ -33,7 +33,8 @@ public class Operadores {
         numero = - numero;
 
         System.out.println(numero);
-        
+         
+        //Os testes acima referem-se a questões de concatenacao
 
     }
     
