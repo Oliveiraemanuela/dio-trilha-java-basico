@@ -1,0 +1,13 @@
+  
+            {
+                "version": "0.2.0",
+                "configurations": [
+                    {
+                        "type": "java",
+                        "request": "launch",
+                        "mainClass": "AboutMe",
+                        "args": ["EMANUELA", "OLIVEIRA", "28", "1.55"]
+                    }
+                ]
+            }
+        
